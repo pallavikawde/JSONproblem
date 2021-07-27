@@ -1,0 +1,13 @@
+[ {
+  "stockName" : "ICICI",
+  "numberOfShares" : 300,
+  "sharePrice" : 50
+}, {
+  "stockName" : "SBI",
+  "numberOfShares" : 200,
+  "sharePrice" : 30
+}, {
+  "stockName" : "HDFC",
+  "numberOfShares" : 500,
+  "sharePrice" : 100
+} ]

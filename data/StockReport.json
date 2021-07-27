@@ -1,0 +1,10 @@
+[ {
+  "stockName" : "ICICI",
+  "wholeSharePrice" : 15000
+}, {
+  "stockName" : "SBI",
+  "wholeSharePrice" : 6000
+}, {
+  "stockName" : "HDFC",
+  "wholeSharePrice" : 50000
+} ]
